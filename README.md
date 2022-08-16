@@ -1,3 +1,4 @@
+
 # Snake Eater
 A snake game written in Python using the Pygame library.
 
@@ -21,4 +22,9 @@ The `difficulty` variable can be changed with the values provided in the comment
 
 The rest of the code is properly commented and self explanatory. Tweaks can be made to change the play style or visuals of the game.
 
+```
 ##Screenshots
+```
+
+![main](https://user-images.githubusercontent.com/111338491/184821948-74c01f57-e686-4a99-ab56-8dc0b14e9e7b.png)
+![snake game](https://user-images.githubusercontent.com/111338491/184821973-28d05d37-0318-458f-a11a-b9f6b54cc480.png)
